@@ -1,7 +1,7 @@
 FROM       java:8-jre
 MAINTAINER Stefan Reuter <docker@reucon.com>
 
-ENV VERSION           2.14.3-01
+ENV VERSION           2.14.3-02
 ENV DUMB_INIT_VERSION 1.2.0
 
 ENV SONATYPE_WORK     /sonatype-work
