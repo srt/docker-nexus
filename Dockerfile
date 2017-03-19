@@ -1,4 +1,4 @@
-FROM       java:8-jre
+FROM openjdk:jre
 MAINTAINER Stefan Reuter <docker@reucon.com>
 
 ENV VERSION           2.14.3-02
