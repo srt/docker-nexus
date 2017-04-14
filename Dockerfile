@@ -1,7 +1,7 @@
 FROM openjdk:jre
 MAINTAINER Stefan Reuter <docker@reucon.com>
 
-ENV VERSION           2.14.3-02
+ENV VERSION           2.14.4-03
 ENV DUMB_INIT_VERSION 1.2.0
 
 ENV SONATYPE_WORK     /sonatype-work
