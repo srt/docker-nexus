@@ -2,7 +2,7 @@ FROM openjdk:jre
 MAINTAINER Stefan Reuter <docker@reucon.com>
 
 ENV VERSION           2.14.5-02 
-ENV DUMB_INIT_VERSION 1.2.0
+ENV DUMB_INIT_VERSION 1.2.1
 
 ENV SONATYPE_WORK     /sonatype-work
 ENV RUN_USER          nexus
